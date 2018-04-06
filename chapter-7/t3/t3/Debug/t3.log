@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/3/30 13:45:27。
+     1>项目“E:\codes\c++PrimerPlus\chapter-7\t3\t3\t3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\t3.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt t3.cpp
+         t3.cpp
+     1>e:\codes\c++primerplus\chapter-7\t3\t3\t3.cpp(22): error C4700: 使用了未初始化的局部变量“pm_box”
+     1>已完成生成项目“E:\codes\c++PrimerPlus\chapter-7\t3\t3\t3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.34
